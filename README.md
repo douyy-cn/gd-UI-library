@@ -1,4 +1,6 @@
 # gd-UI-library
+UI基础库-elementUI基础封装常用功能基础组件
+
 本地开发运行：
 ```javascript
 npm run server
